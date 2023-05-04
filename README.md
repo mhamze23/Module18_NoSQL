@@ -35,5 +35,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Mock Up
 
 
+
+https://user-images.githubusercontent.com/115047281/236136046-023895e4-9d61-4c87-9397-638eccb8410f.mov
+
+
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
